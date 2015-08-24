@@ -1,1 +1,1 @@
-![](https://github.com/zhangdhu/weibo_les/tree/master/images/weibo.png)
+![](https://github.com/zhangdhu/weibo_les/blob/master/images/weibo.png)
