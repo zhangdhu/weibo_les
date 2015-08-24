@@ -1,0 +1,1 @@
+![](https://github.com/zhangdhu/weibo_les/tree/master/images/weibo.png)
